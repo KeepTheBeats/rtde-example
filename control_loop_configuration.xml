@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rtde_config>
+	<recipe key="state">
+		<field name="output_int_register_0" type="INT32"/>
+	</recipe>
+
+	<recipe key="actualq">
+		<field name="input_double_register_24" type="DOUBLE"/>
+		<field name="input_double_register_25" type="DOUBLE"/>
+		<field name="input_double_register_26" type="DOUBLE"/>
+		<field name="input_double_register_27" type="DOUBLE"/>
+		<field name="input_double_register_28" type="DOUBLE"/>
+		<field name="input_double_register_29" type="DOUBLE"/>
+	</recipe>
+
+    <recipe key="sdo">
+        <field name="standard_digital_output" type="UINT8"/>
+        <field name="standard_digital_output_mask" type="UINT8"/>
+    </recipe>
+
+	<recipe key="watchdog">
+		<field name="input_int_register_0" type="INT32"/>
+	</recipe>
+</rtde_config>
