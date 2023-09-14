@@ -10,6 +10,8 @@ Examples to use UR rtde library.
 - `record_configuration.xml`: config file for `rtde` library, including the variables that we need to read from the UR robotic arm.
 
 ## other information
+
+### An email from UR (Universal Robots) company
 UR company sent us an email, which also includes some documentations and examples to use the `rtde` library:
 
 <blockquote>
@@ -28,3 +30,10 @@ Let me know if you need anything else.
 Regards.
 
 </blockquote>
+
+
+### Another rtde example repository
+UR company recommended this repository to us:
+> https://github.com/KeepTheBeats/URRobots_Python_RTDE
+
+I have not read it, but forked it, in case that we may need it in the future.
